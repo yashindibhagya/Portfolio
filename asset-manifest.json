@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yashindibhagya/Portfolio.git/static/css/main.15f378b9.css",
-    "main.js": "/yashindibhagya/Portfolio.git/static/js/main.177fe727.js",
+    "main.js": "/yashindibhagya/Portfolio.git/static/js/main.c20d2d3d.js",
     "static/media/1.png": "/yashindibhagya/Portfolio.git/static/media/1.4deb74dd8f24969d69de.png",
     "static/media/2.png": "/yashindibhagya/Portfolio.git/static/media/2.2c0a996fbaf85a81e4b0.png",
     "static/media/forest.png": "/yashindibhagya/Portfolio.git/static/media/forest.6c9c80bf3f241cdb66d5.png",
@@ -34,10 +34,10 @@
     "static/media/2.jpg": "/yashindibhagya/Portfolio.git/static/media/2.3089173b8c8e3a245bcc.jpg",
     "index.html": "/yashindibhagya/Portfolio.git/index.html",
     "main.15f378b9.css.map": "/yashindibhagya/Portfolio.git/static/css/main.15f378b9.css.map",
-    "main.177fe727.js.map": "/yashindibhagya/Portfolio.git/static/js/main.177fe727.js.map"
+    "main.c20d2d3d.js.map": "/yashindibhagya/Portfolio.git/static/js/main.c20d2d3d.js.map"
   },
   "entrypoints": [
     "static/css/main.15f378b9.css",
-    "static/js/main.177fe727.js"
+    "static/js/main.c20d2d3d.js"
   ]
 }
